@@ -1,2 +1,3 @@
 First line in c.txt form the c branch
 Test for the GUI
+Test for Stash command

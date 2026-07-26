@@ -1,3 +1,4 @@
 First Line in b.txt
 a modification form the c branch
 Another test for the GUI
+Another Test for Stash command
